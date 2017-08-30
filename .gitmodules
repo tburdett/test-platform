@@ -1,0 +1,6 @@
+[submodule "test-model"]
+	path = test-model
+	url = git@github.com:tburdett/test-model.git
+[submodule "test-app"]
+	path = test-app
+	url = git@github.com:tburdett/test-app.git
